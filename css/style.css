@@ -8,3 +8,13 @@ body{
   color: #333;
   overflow:hidden;
 }
+
+.background{
+    color: #cccccc;
+}
+
+#img{
+  height: 180px;
+  width: auto;
+  
+}
