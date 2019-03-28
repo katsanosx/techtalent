@@ -1,3 +1,10 @@
 body{
-  background-image: linear-gradient(to right top, #050537, #004184, #007cac, #00b793, #12eb41);
+  height: 100%;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+  overflow:hidden;
 }
