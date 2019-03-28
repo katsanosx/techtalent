@@ -1,1 +1,6 @@
-background-image: linear-gradient(to right top, #050537, #004184, #007cac, #00b793, #12eb41); ColorSpace
+background-image: linear-gradient(to right top, #050537, #004184, #007cac, #00b793, #12eb41); //ColorSpace
+
+
+-webkit-box-shadow: 9px 21px 43px 0px rgba(0,0,0,1);
+-moz-box-shadow: 9px 21px 43px 0px rgba(0,0,0,1);
+box-shadow: 9px 21px 43px 0px rgba(0,0,0,1);// BoxShadow
